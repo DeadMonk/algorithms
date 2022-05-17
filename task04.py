@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/python3
 
+"""Определить, какое число в массиве встречается чаще всего."""
 from random import randint
 
 int_list = []
